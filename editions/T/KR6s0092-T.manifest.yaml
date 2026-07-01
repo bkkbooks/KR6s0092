@@ -1,0 +1,600 @@
+canonical_identifier: bkk:krp/KR6s0092/T/v1
+canonical_location: https://kanripo.org/bkk/KR6s0092/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大周刊定眾經目錄
+  identifiers:
+    krp: KR6s0092
+    cbeta: T55n2153
+    cbeta_old_id: T55n2153
+    authorityid: CA0003455
+    json_key: T2153
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2153.xml
+    old_id: T55n2153
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0092_000-T.yaml, hash: 'sha256:87963b588ce23ac1e7489bfe6c936a4cdb34262ff9d735ca4c5e2691f0691f27'}
+  - {seq: 1, filename: KR6s0092_001-T.yaml, hash: 'sha256:067e0fc4bc962a8279f3adf8b8992c0c868acdb5c84d716033cda5760dac14a6'}
+  - {seq: 2, filename: KR6s0092_002-T.yaml, hash: 'sha256:ad245f6c0c821a2e8aee88978994d450331103d8fad1bc2823a9add5bc55b301'}
+  - {seq: 3, filename: KR6s0092_003-T.yaml, hash: 'sha256:f3e41fb6cde77d548fa75a8df0838238f9880f595f18549f260892f95347ce15'}
+  - {seq: 4, filename: KR6s0092_004-T.yaml, hash: 'sha256:da2fff2e886469fc5e243dbe0aa45c4a902299596b9edea351d8a33a5bda766c'}
+  - {seq: 5, filename: KR6s0092_005-T.yaml, hash: 'sha256:c5bc2b37d968c9996ae0db27cb26a3fa1a906ddf260884f51417111b8204d95b'}
+  - {seq: 6, filename: KR6s0092_006-T.yaml, hash: 'sha256:0d007835b3197ca98236cfb113b0ad2cd056590c6fff46adbd95a1a6a17da4e0'}
+  - {seq: 7, filename: KR6s0092_007-T.yaml, hash: 'sha256:fb8a1afa9348852696f1107421d5f2844a7e4d73d04314f01b5c11de87ac2a35'}
+  - {seq: 8, filename: KR6s0092_008-T.yaml, hash: 'sha256:4f291d0f7ee8332a3c311e422b50439f6444e95512fa4b74985059a920fc2de4'}
+  - {seq: 9, filename: KR6s0092_009-T.yaml, hash: 'sha256:e74a2dab9b1faa642f5a5e761985139164ea508a13d43301f3ec4414365fb533'}
+  - {seq: 10, filename: KR6s0092_010-T.yaml, hash: 'sha256:472a6eeccf6db608f99fc911aa48caa51150a2b4a64e47f50fb6feddb469739b'}
+  - {seq: 11, filename: KR6s0092_011-T.yaml, hash: 'sha256:64ab4a6f6a6d03d8578bb5e29b2a9a4d9df1b32b39974f94a94306ad95b215f8'}
+  - {seq: 12, filename: KR6s0092_012-T.yaml, hash: 'sha256:c3b23b9ee948fb20f56e28b41b6317750f4c5fc1ef53201ef60b8abdd0554473'}
+  - {seq: 13, filename: KR6s0092_013-T.yaml, hash: 'sha256:c6e08744409cd03b50b6dd0420ddc9234733ca1a92e4194978ce1e73f558bed7'}
+  - {seq: 14, filename: KR6s0092_014-T.yaml, hash: 'sha256:8e67fdf7165e101cedea5ea002896fd8e8442a5892ed4995b8f60d2fb9c6d20d'}
+  - {seq: 15, filename: KR6s0092_015-T.yaml, hash: 'sha256:57a35f37296bd20eab7bedb3ec74e419324e4495fd1b7ee5bb8075a3cffb2391'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0092_000-T.markers.yaml, hash: 'sha256:1b32d2eb44614dfff15f59365b51e5aba43a398625cd7c05683361af2e540c50'}
+  - {seq: 1, role: markers, filename: assets/KR6s0092_001-T.markers.yaml, hash: 'sha256:37757fb6e51ee7d8c483f677dc225bea606123c2bc2dbf72999934f16a26eabb'}
+  - {seq: 2, role: markers, filename: assets/KR6s0092_002-T.markers.yaml, hash: 'sha256:fcf99f6bf63b5b775289d97042a8f93890885dea213a84bf4da9efcced221472'}
+  - {seq: 3, role: markers, filename: assets/KR6s0092_003-T.markers.yaml, hash: 'sha256:13ef57b7a0f161399eb3cacec36a7def04bfb862f6d8598795e101fb3ac770ab'}
+  - {seq: 4, role: markers, filename: assets/KR6s0092_004-T.markers.yaml, hash: 'sha256:cec9c81a69d22770830bf3ea9f54b05e6036a142b5a8374c90e958206101950a'}
+  - {seq: 5, role: markers, filename: assets/KR6s0092_005-T.markers.yaml, hash: 'sha256:36f15f9a01ab325c1a2f795f1113459cefbee2382eee118362bebb096c553478'}
+  - {seq: 6, role: markers, filename: assets/KR6s0092_006-T.markers.yaml, hash: 'sha256:f3d652832567d1dc30f7fa13aeca3cec4702b58a58b9171b4c01039cb5b2354e'}
+  - {seq: 7, role: markers, filename: assets/KR6s0092_007-T.markers.yaml, hash: 'sha256:2d7b8142843433ccf7f1c21c5e097fcdc8c759d2d6ea123c8d83ba2e0613734e'}
+  - {seq: 8, role: markers, filename: assets/KR6s0092_008-T.markers.yaml, hash: 'sha256:11c64b3a134903207ec9277c8b150da11598eeca19a352ce8f7b9931d7978f64'}
+  - {seq: 9, role: markers, filename: assets/KR6s0092_009-T.markers.yaml, hash: 'sha256:2d017dbb4abb992648269ec962f9a9b8fc5e33e70ff5191902e207f47b03b9ea'}
+  - {seq: 10, role: markers, filename: assets/KR6s0092_010-T.markers.yaml, hash: 'sha256:400fb9031756904808bb67a14e134c5f472a98bf3f59d0cce7bc48d0a3148981'}
+  - {seq: 11, role: markers, filename: assets/KR6s0092_011-T.markers.yaml, hash: 'sha256:01354aa4084747971a95d6392398c49cbc40504c869442171952a84ae601d06e'}
+  - {seq: 12, role: markers, filename: assets/KR6s0092_012-T.markers.yaml, hash: 'sha256:5867788b95ee6677d892b08e9f77c8e9cbc08f4c850eefc3abe3fc15ae9b0263'}
+  - {seq: 13, role: markers, filename: assets/KR6s0092_013-T.markers.yaml, hash: 'sha256:093a9c6b9f04b9880a52006c3b4ec7d0bb78cff867b74b500e6318476ae784c1'}
+  - {seq: 14, role: markers, filename: assets/KR6s0092_014-T.markers.yaml, hash: 'sha256:5ed019daa76385527580aade3be82166951ebca30d3cf4bb1185cfeb56b69399'}
+  - {seq: 15, role: markers, filename: assets/KR6s0092_015-T.markers.yaml, hash: 'sha256:55f78071a2146a7b82296711c58a5478c436aa70f4144ec0aeb97fc1de188d24'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0092_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 大周刊定眾經目錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0092_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6702
+  label: 大周刊定眾經目錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0092_T_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大乘單譯經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0092_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6248
+  label: 大周刊定眾經目錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0092_T_002-mulu-1
+    span:
+    - body
+    - 13
+    - 13
+  label: 大乘重譯經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0092_T_002-mulu-2
+    span:
+    - body
+    - 34
+    - 34
+  label: 卷之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0092_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6232
+  label: 大周刊定眾經目錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0092_T_003-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 卷之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0092_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6414
+  label: 大周刊定眾經目錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6s0092_T_004-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 卷之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0092_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5883
+  label: 大周刊定眾經目錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0092_T_005-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 卷之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6s0092_T_005-mulu-2
+    span:
+    - body
+    - 5196
+    - 5196
+  label: 附文
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0092_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 4885
+  label: 大周刊定眾經目錄卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0092_T_006-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 大乘律大乘論目
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0092_T_006-mulu-2
+    span:
+    - body
+    - 71
+    - 71
+  label: 大乘律
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6s0092_T_006-mulu-3
+    span:
+    - body
+    - 1804
+    - 1804
+  label: 大乘論
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0092_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7365
+  label: 大周刊定眾經目錄卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6s0092_T_007-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 小乘單譯經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0092_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 9446
+  label: 大周刊定眾經目錄卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0092_T_008-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 小乘重譯經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6s0092_T_008-mulu-2
+    span:
+    - body
+    - 15
+    - 15
+  label: 卷之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0092_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7135
+  label: 大周刊定眾經目錄卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6s0092_T_009-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 卷之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0092_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 5292
+  label: 大周刊定眾經目錄卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0092_T_010-mulu-1
+    span:
+    - body
+    - 39
+    - 39
+  label: 小乘律
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0092_T_010-mulu-2
+    span:
+    - body
+    - 2590
+    - 2590
+  label: 小乘論
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6s0092_T_010-mulu-3
+    span:
+    - body
+    - 4323
+    - 4323
+  label: 賢聖集傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0092_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 4618
+  label: 大周刊定眾經目錄卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0092_T_011-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 大小乘失譯經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0092_T_011-mulu-2
+    span:
+    - body
+    - 65
+    - 65
+  label: 大乘失譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6s0092_T_011-mulu-3
+    span:
+    - body
+    - 2804
+    - 2804
+  label: 小乘失譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0092_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 10891
+  label: 大周刊定眾經目錄卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0092_T_012-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 大小乘闕本經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0092_T_012-mulu-2
+    span:
+    - body
+    - 3992
+    - 3992
+  label: 大小乘闕本經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0092_T_012-mulu-3
+    span:
+    - body
+    - 4050
+    - 4050
+  label: 大乘闕本經
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6s0092_T_012-mulu-4
+    span:
+    - body
+    - 6575
+    - 6575
+  label: 小乘闕本經
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0092_T_013-juan-start
+    span:
+    - body
+    - 0
+    - 8979
+  label: '大周刊定眾經目錄卷第十三見定
+
+    流行入藏錄卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0092_T_013-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 見定入藏流行錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0092_T_013-mulu-2
+    span:
+    - body
+    - 188
+    - 188
+  label: 大乘修多羅藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0092_T_013-mulu-3
+    span:
+    - body
+    - 214
+    - 214
+  label: 單譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0092_T_013-mulu-4
+    span:
+    - body
+    - 1961
+    - 1961
+  label: 重譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0092_T_013-mulu-5
+    span:
+    - body
+    - 7415
+    - 7415
+  label: 大乘毘尼藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6s0092_T_013-mulu-6
+    span:
+    - body
+    - 7739
+    - 7739
+  label: 大乘阿毘達磨藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0092_T_014-juan-start
+    span:
+    - body
+    - 0
+    - 4179
+  label: '大周刊定眾經目錄卷第十四見定
+
+    流行入藏錄卷下'
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0092_T_014-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 小乘修多羅藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0092_T_014-mulu-2
+    span:
+    - body
+    - 35
+    - 35
+  label: 單譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0092_T_014-mulu-3
+    span:
+    - body
+    - 718
+    - 718
+  label: 重譯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0092_T_014-mulu-4
+    span:
+    - body
+    - 2611
+    - 2611
+  label: 小乘毘尼藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0092_T_014-mulu-5
+    span:
+    - body
+    - 3021
+    - 3021
+  label: 小乘阿毘達摩藏
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0092_T_014-mulu-6
+    span:
+    - body
+    - 3526
+    - 3526
+  label: 賢聖集傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6s0092_T_014-mulu-7
+    span:
+    - body
+    - 3795
+    - 3795
+  label: 賢聖集傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6s0092_T_015-juan-start
+    span:
+    - body
+    - 0
+    - 3177
+  label: 大周刊定眾經目錄卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6s0092_T_015-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 偽經目錄
+  type: mulu
+  level: 1
+hash: sha256:aa8961d5b7824c9aaeced36144af412e099c70edaafc36f833f4519f6b768499
